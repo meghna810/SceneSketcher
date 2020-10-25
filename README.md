@@ -7,3 +7,4 @@ MLReproducability2020
 * get_object_classes.py : Gets the objects present in each image using yolov3 model, and dumps it in  result_final.pickle file 
 * pickle_read.py        : Reads a pickle file into a .txt (Usage: python pickle_read.py > result.txt) 
 * getMultiObjectJPGs.py : Filters and obtains multi-object images from the SketchCOCO datatset using the result_final.pickle file  
+* box1.py               : Gets the bounding boxes coordinates for sketch type images
